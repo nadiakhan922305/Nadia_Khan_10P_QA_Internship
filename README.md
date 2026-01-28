@@ -1,0 +1,7 @@
+This repository contains a collection of Quality Assurance assignments that cover various concepts and practical tasks in software testing. The purpose of this repository is to demonstrate key skills of a QA professional including manual testing, automation testing, bug reporting and performance testing. Each assignment inside this repository helps build real-world understanding of testing processes and tools used in the industry.
+
+The assignments include QA theory, writing detailed test plans, creating test cases, reporting bugs professionally, performing API testing using Postman, and running performance testing with JMeter. Additionally, there is a sample automation project demonstrating UI test execution with tools like Sauce Labs. All files are organized to make it easy to understand and explore different areas of software testing.
+
+Tools used in this work include Postman for API automation, JMeter for load and performance testing, Microsoft Excel for bug reporting, and PDF/Doc formats for test documentation. These assignments reflect practical learning and development of QA skills that are essential for working in professional testing environments.
+
+This repository represents my learning journey as a Software Quality Assurance student, where I practice and apply different testing techniques. It highlights my ability to design test documentation, analyze results, detect defects, automate requests and evaluate system performance. I will continue to update this repository as I grow in the QA field.
